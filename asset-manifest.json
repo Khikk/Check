@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.80ae2369.css",
-    "main.js": "/static/js/main.92c5f8ad.js",
-    "index.html": "/index.html",
-    "main.80ae2369.css.map": "/static/css/main.80ae2369.css.map",
-    "main.92c5f8ad.js.map": "/static/js/main.92c5f8ad.js.map"
+    "main.css": "/Checkpoint5_React/static/css/main.80ae2369.css",
+    "main.js": "/Checkpoint5_React/static/js/main.92c5f8ad.js",
+    "index.html": "/Checkpoint5_React/index.html",
+    "main.80ae2369.css.map": "/Checkpoint5_React/static/css/main.80ae2369.css.map",
+    "main.92c5f8ad.js.map": "/Checkpoint5_React/static/js/main.92c5f8ad.js.map"
   },
   "entrypoints": [
     "static/css/main.80ae2369.css",
